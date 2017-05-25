@@ -9,6 +9,21 @@ body {
     background: white;
 }
 
+//layout
+main {
+    background: teal;
+    margin: 0 auto;
+    width: 90%;    
+}
+
+//rwd header
+main img {
+    max-height: 400%;
+    width: %100;
+    max-width: 100%;
+    
+}
+
 // Portfolio Items
 figure {
     background: #5b445f;
