@@ -14,6 +14,7 @@ body {
 h1 {
     font-family: 'Kaushan Script', cursive;
     font-size: 2.5em;
+    padding: .5em;
     
 }
 
@@ -32,15 +33,15 @@ main header img {
 
 // Random Backgrounds
 .bg0 {
-  background: url(/img/background/ep_naturalblack/ep_naturalblack.png);
+  background-image: url(/img/background/ep_naturalblack/ep_naturalblack.png);
 }
 
 .bg1 {
-  background: url(/img/background/black_paper/black_paper.png);
+  background-image: url(/img/background/black_paper/black_paper.png);
 }
 
 .bg2 {
-  background: url(/img/background/dark_brick_wall/dark_brick_wall.png);
+  background-image: url(/img/background/dark_brick_wall/dark_brick_wall.png);
 }
 
 
