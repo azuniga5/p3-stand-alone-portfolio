@@ -2595,42 +2595,42 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 /*# sourceMappingURL=lg-transitions.css.map */
 /* line 10, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 body {
-  background: #ccc; }
+  background: white; }
 
-/* line 13, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 14, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 h1 {
   font-family: 'Kaushan Script', cursive; }
 
-/* line 19, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 20, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main {
-  background: #fff;
+  background: white;
   margin: 0 auto;
   width: 90%; }
 
-/* line 26, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 27, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main header img {
   width: 100%;
   max-width: 100%; }
 
-/* line 32, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 33, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg0 {
-  background: #656565; }
+  background-image: url(/img/background/ep_naturalblack/ep_naturalblack.png); }
 
-/* line 36, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 37, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg1 {
-  background: #c3c3c3; }
+  background: url(/img/background/black_paper/black_paper.png); }
 
-/* line 40, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 41, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg2 {
-  background: #989898; }
+  background: url(/img/background/dark_brick_wall/dark_brick_wall.png); }
 
-/* line 46, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 48, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; }
 
-/* line 52, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 54, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article figure {
   background: orange;
   padding: 2em;

@@ -8,8 +8,9 @@
 @import "lg-transitions";
 
 body {
-    background: #ccc;
+    background: white;
 }
+
 h1 {
     font-family: 'Kaushan Script', cursive;
     
@@ -17,7 +18,7 @@ h1 {
 
 // Layout
 main {
-    background: #fff;
+    background: white;
     margin: 0 auto;
     width: 90%;
 }
@@ -30,16 +31,17 @@ main header img {
 
 // Random Backgrounds
 .bg0 {
-  background: #656565;
+  background-image: url(/img/background/ep_naturalblack/ep_naturalblack.png);
 }
 
 .bg1 {
-  background: #c3c3c3;
+  background: url(/img/background/black_paper/black_paper.png);
 }
 
 .bg2 {
-  background: #989898;
+  background: url(/img/background/dark_brick_wall/dark_brick_wall.png);
 }
+
 
 // Portfolio Items
 // Flexbox Layout
