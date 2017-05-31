@@ -1,8 +1,8 @@
 // Scripts
 // Store Banner Images
-var img0 = 'https://unsplash.it/600/300?image=1';
-var img1 = 'https://unsplash.it/600/300?image=2';
-var img2 = 'https://unsplash.it/600/300?image=3';
+var img0 = '/img/img/hoglake.jpg';
+var img1 = '/img/img/colechuck.jpg';
+var img2 = '/img/img/leaf.jpg';
 
 // Random Number Generator
 var maxRand = 3;
@@ -15,7 +15,7 @@ $('header img').attr('src', eval('img' + randNum) );
 // Lightgallery
 $('figure').lightGallery({
     selector: 'a', 
-    mode: 'lg-lollipop',
+    mode: 'lg-rotate-rev',
     thumbnail: true
 });
 
