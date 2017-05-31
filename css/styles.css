@@ -2599,38 +2599,39 @@ body {
 
 /* line 14, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 h1 {
-  font-family: 'Kaushan Script', cursive; }
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2.5em; }
 
-/* line 20, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 21, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main {
-  background: white;
+  background: url(/img/background/handmadepaper/handmadepaper.png);
   margin: 0 auto;
   width: 90%; }
 
-/* line 27, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 28, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main header img {
   width: 100%;
   max-width: 100%; }
 
-/* line 33, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 34, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg0 {
-  background-image: url(/img/background/ep_naturalblack/ep_naturalblack.png); }
+  background: url(/img/background/ep_naturalblack/ep_naturalblack.png); }
 
-/* line 37, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 38, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg1 {
   background: url(/img/background/black_paper/black_paper.png); }
 
-/* line 41, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 42, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg2 {
   background: url(/img/background/dark_brick_wall/dark_brick_wall.png); }
 
-/* line 48, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 49, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; }
 
-/* line 54, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 55, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article figure {
   background: orange;
   padding: 2em;
