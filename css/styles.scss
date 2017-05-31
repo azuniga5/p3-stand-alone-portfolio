@@ -4,34 +4,55 @@
 @import "lightgallery";
 @import "lg-transitions";
 
-
 body {
-    background: white;
+    background: #ccc;
 }
 
-//layout
+// Layout
 main {
-    background: teal;
+    background: #fff;
     margin: 0 auto;
-    width: 90%;    
+    width: 90%;
 }
 
-//rwd header
-main img {
-    max-height: 400%;
-    width: %100;
+// RWD header img
+main header img {
+    width: 100%;
     max-width: 100%;
-    
+}
+
+// Random Backgrounds
+.bg0 {
+  background: #656565;
+}
+
+.bg1 {
+  background: #c3c3c3;
+}
+
+.bg2 {
+  background: #989898;
 }
 
 // Portfolio Items
-figure {
-    background: #5b445f;
-    padding: 1em;
-    text-align: center;
-    width: 300px;
+// Flexbox Layout
+article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-figure img {
-    box-shadow: 2px 2px 2px gray;
+article figure {
+  background: orange;
+  padding: 2em;
+  width: 20em;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
+
+
+
+
+
