@@ -7,9 +7,6 @@
 @import "lightgallery";
 @import "lg-transitions";
 
-body {
-    background: white;
-}
 
 h1 {
     font-family: 'Kaushan Script', cursive;
@@ -37,11 +34,11 @@ main header img {
 }
 
 .bg1 {
-  background-image: url(../img/background/black_paper/black_paper.png);
+  background-image: url(../img/background/black_paper/black_paper_@2X.png);
 }
 
 .bg2 {
-  background-image: url(../img/background/dark_brick_wall/dark_brick_wall.png);
+  background-image: url(../img/background/dark_brick_wall/dark_brick_wall_@2X.png);
 }
 
 
