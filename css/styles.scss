@@ -10,6 +10,18 @@
 body {
     background: white;
 }
+.banner{
+   position: relative;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  background-image: url(/img/img/colechuck.jpg);
+  object-fit: cover;
+  background-repeat: no-repeat; 
+  padding: 15px 0;
+  margin: 0 auto;
+
+}
 
 h1 {
     font-family: 'Kaushan Script', cursive;
@@ -20,7 +32,7 @@ h1 {
 
 // Layout
 main {
-    background: url(/img/background/handmadepaper/handmadepaper.png);
+    background:none;
     margin: 0 auto;
     width: 90%;
 }
@@ -50,7 +62,7 @@ main header img {
 article {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 article figure {
