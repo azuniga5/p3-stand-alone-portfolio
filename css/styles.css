@@ -2616,15 +2616,15 @@ main header img {
 
 /* line 35, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg0 {
-  background-image: url(/img/background/ep_naturalblack/ep_naturalblack.png); }
+  background-image: url(../img/background/ep_naturalblack/ep_naturalblack.png); }
 
 /* line 39, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg1 {
-  background-image: url(/img/background/black_paper/black_paper.png); }
+  background-image: url(../img/background/black_paper/black_paper.png); }
 
 /* line 43, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg2 {
-  background-image: url(/img/background/dark_brick_wall/dark_brick_wall.png); }
+  background-image: url(../img/background/dark_brick_wall/dark_brick_wall.png); }
 
 /* line 50, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article {
