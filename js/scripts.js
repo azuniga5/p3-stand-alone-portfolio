@@ -1,8 +1,8 @@
 // Scripts
 // Store Banner Images
-var img0 = '/img/img/hoglake.jpg';
-var img1 = '/img/img/colechuck.jpg';
-var img2 = '/img/img/leaf.jpg';
+var img0 = '../img/img/hoglake';
+var img1 = '../img/img/colechuck.jpg';
+var img2 = '../img/img/leaf.jpg';
 
 // Random Number Generator
 var maxRand = 3;
