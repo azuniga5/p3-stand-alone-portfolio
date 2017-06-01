@@ -2605,36 +2605,47 @@ main {
   margin: 0 auto;
   width: 90%; }
 
-/* line 26, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 25, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+img {
+  height: 5%;
+  width: auto; }
+
+/* line 33, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main header img {
   width: 100%;
   max-width: 100%; }
 
-/* line 32, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 39, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg0 {
   background-image: url(../img/background/ep_naturalblack/ep_naturalblack.png); }
 
-/* line 36, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 43, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg1 {
   background-image: url(../img/background/black_paper/black_paper.png); }
 
-/* line 40, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 47, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg2 {
   background-image: url(../img/background/dark_brick_wall/dark_brick_wall_@2X.png); }
 
-/* line 47, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 54, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1.2em; }
+
+/* line 61, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+article figure {
+  background: #21736d;
+  padding: 2em;
+  width: 20em;
+  height: 25em;
   display: flex;
   flex-wrap: wrap;
   justify-content: center; }
 
-/* line 53, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
-article figure {
-  background: orange;
-  padding: 2em;
-  width: 20em;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; }
+/* line 71, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+figure {
+  margin: 1em auto; }
 
 /*# sourceMappingURL=styles.css.map */
