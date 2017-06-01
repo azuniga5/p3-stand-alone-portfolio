@@ -2,7 +2,7 @@
 // Store Banner Images
 var img0 = 'img/img/hoglake';
 var img1 = '..//colechuck.jpg';
-var img2 = '..//leaf.jpg';
+var img2 = '..//leaf.jpeg';
 
 // Random Number Generator
 var maxRand = 3;
