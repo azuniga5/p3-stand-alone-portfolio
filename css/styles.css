@@ -2596,7 +2596,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 /* line 11, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 h1 {
   font-family: 'Kaushan Script', cursive;
-  font-size: 2.8em;
+  font-size: 2.5em;
   padding: .5em; }
 
 /* line 19, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
@@ -2609,8 +2609,9 @@ main {
 .document {
   display: block;
   position: relative;
-  width: 70%;
+  max-width: 70%;
   height: auto;
+  min-width: 20%;
   margin: 0 auto;
   padding: 1em; }
 
