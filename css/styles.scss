@@ -22,20 +22,32 @@ main {
     width: 90%;
 }
 
+.document{
+    display: block;
+    position: relative;
+    width: 70% ;
+    height: auto;
+    margin: 0 auto;
+    padding: 1em;
+   
+    
+}
+
 img {
     height: 30%;
     width: auto;
     display: block;
     text-align: center;
-}
+} 
 
 figcaption{
     font-family: 'Source Sans Pro', sans-serif;
+    position: relative;
     font-size: 1.2em;
     display: block;
     text-align: center;
     margin: 0 auto;
-    padding: 1.7em;
+    padding: 2 em;
 }
 
 
