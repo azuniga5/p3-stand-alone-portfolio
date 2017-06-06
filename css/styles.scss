@@ -22,23 +22,43 @@ main {
     width: 90%;
 }
 
-.document{
+.document, .logo {
     display: block;
     position: relative;
     max-width: 70% ;
     height: auto;
-    min-width: 20%;
+    min-width: 10%;
+    min-height: auto;
     margin: 0 auto;
-    padding: 1em;
-    
+    padding: 1em;  
 }
 
-img {
-    height: 30%;
-    width: auto;
+.kingabucha, .poster{
     display: block;
-    text-align: center;
-} 
+    position: relative;
+    max-width: 100% ;
+    height: auto;
+    min-width: 20%;
+    min-height: auto;
+    margin: 0 auto;
+    padding: 1em; 
+}
+.card {
+    display: block;
+    position: relative;
+    max-width: 150% ;
+    height: auto;
+    min-width: 20%;
+    min-height: auto;
+    margin: 0 auto;
+    padding: 1em; 
+}
+
+
+ 
+
+
+
 
 figcaption{
     font-family: 'Source Sans Pro', sans-serif;
@@ -77,12 +97,13 @@ article {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 1.2em;
+  padding: 0 auto;
+  margin: 0 auto;
 }
 
 article figure {
   background: #21736d;
-  padding: 2em;
+  padding: 1.2em;
   width: 20em;
   height: 25em;
   
@@ -90,9 +111,7 @@ article figure {
   flex-wrap: wrap;
   justify-content: center;
 }
-figure {
-    margin: 1em auto;
-}
+
 
 
 
