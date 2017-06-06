@@ -2614,7 +2614,7 @@ main {
   min-width: 10%;
   min-height: auto;
   margin: 0 auto;
-  padding: 1em; }
+  padding: auto; }
 
 /* line 36, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .kingabucha, .poster {
@@ -2625,7 +2625,7 @@ main {
   min-width: 20%;
   min-height: auto;
   margin: 0 auto;
-  padding: 1em; }
+  padding: auto; }
 
 /* line 46, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .card {
@@ -2636,7 +2636,7 @@ main {
   min-width: 20%;
   min-height: auto;
   margin: 0 auto;
-  padding: 1em; }
+  padding: auto; }
 
 /* line 63, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 figcaption {
