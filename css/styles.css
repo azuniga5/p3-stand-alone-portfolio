@@ -2631,7 +2631,7 @@ main {
 .card {
   display: block;
   position: relative;
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
   min-width: 20%;
   min-height: auto;
@@ -2648,24 +2648,24 @@ figcaption {
   margin: 0 auto;
   padding: 2 em; }
 
-/* line 75, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 76, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 main header img {
   width: 100%;
   max-width: 100%; }
 
-/* line 81, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 82, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg0 {
   background-image: url(../img/background/ep_naturalblack/ep_naturalblack.png); }
 
-/* line 85, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 86, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg1 {
   background-image: url(../img/background/black_paper/black_paper.png); }
 
-/* line 89, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 90, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 .bg2 {
   background-image: url(../img/background/dark_brick_wall/dark_brick_wall_@2X.png); }
 
-/* line 96, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 97, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article {
   display: flex;
   flex-wrap: wrap;
@@ -2673,7 +2673,7 @@ article {
   padding: 0 auto;
   margin: 0 auto; }
 
-/* line 104, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+/* line 108, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 article figure {
   background: #21736d;
   padding: 1.2em;
@@ -2682,5 +2682,9 @@ article figure {
   display: flex;
   flex-wrap: wrap;
   justify-content: center; }
+
+/* line 119, /Users/azuniga5/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+figure:hover {
+  background-color: #2d4f5a; }
 
 /*# sourceMappingURL=styles.css.map */
