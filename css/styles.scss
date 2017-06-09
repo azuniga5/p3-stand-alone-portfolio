@@ -101,7 +101,7 @@ article {
 
 
 article figure {
-  background: #21736d;
+  background: clear;
   padding: 1.2em;
   width: 20em;
   height: 25em;
@@ -114,6 +114,7 @@ article figure {
 
 figure:hover{
     background-color: #2d4f5a;
+    
 }
 
 /* Mobile: 320px = 20em */

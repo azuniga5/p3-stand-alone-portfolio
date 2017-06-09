@@ -15,7 +15,7 @@ console.log(randNum);
 // Lightgallery
 $('figure').lightGallery({
     selector: 'a', 
-    mode: 'lg-rotate-rev',
+    mode: 'lg-rotate',
     thumbnail: true
 });
 
