@@ -46,13 +46,14 @@ main {
 .card {
     display: block;
     position: relative;
-    max-width: 100% ;
+    max-width: 80%;
     height: auto;
     min-width: 20%;
     min-height: auto;
     margin: 0 auto;
-    padding: 1em; 
+    padding: 1em;
 }
+
 
 
 figcaption{
@@ -64,6 +65,7 @@ figcaption{
     margin: 0 auto;
     padding: 2 em;
 }
+
 
 
 
